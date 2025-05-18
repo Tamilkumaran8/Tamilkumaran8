@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamilkumaran
+ 👋 Hi there I'm TamilKumaran
 
 <!---
 Tamilkumaran8/Tamilkumaran8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
